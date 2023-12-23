@@ -23,3 +23,7 @@
 		-GPL inclusion of credit sources & information to better aid in modifying your own version
 		
 -v1.5 Short Clip Upload Fix: Re-upload short clip due to not showing full screen
+
+--v2 Current Objective: -Loot Drops , better basic gore, sound for player class weapon (besides archer),  player screen damage effect,
+			menu, credit bar, multiplayer, chat log, commands, buff/debuff male||female , basic INV, 
+			bit more mob enemy types, Create Steam Demo Page to get educated on the process
