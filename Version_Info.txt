@@ -27,3 +27,6 @@
 --v2 Current Objective: -Loot Drops , better basic gore, sound for player class weapon (besides archer),  player screen damage effect,
 			menu, credit bar, multiplayer, chat log, commands, buff/debuff male||female , basic INV, 
 			bit more mob enemy types, Create Steam Demo Page to get educated on the process
+
+2d 77 6f 72 3a 0d 0a 56 69 76 61 20 52 65 76 6f 6c 75 74 69 6f 6e 20 68 74 74 70 73 3a 2f 2f 77 77 77 2e 79 6f 75 74 75 62 65 2e 63 
+6f 6d 2f 77 61 74 63 68 3f 76 3d 50 4f 4c 35 6d 33 67 79 67 59 45 0d 0a
