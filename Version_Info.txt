@@ -50,7 +50,14 @@ REEEE,FKNAKFADFADFPKADG!
 kek (͠≖ ͜ʖ͠≖)👌
 https://www.youtube.com/watch?v=w4X32swWlo4
 
---v3.2 Removed s from Objective: 
+-v3.2 Removed s from Objective: 
 			-v2 Current Objectives -> -v2 Current Objective
 -Will ensure once using Ctrl+C -> Ctrl+F -> Ctrl+V  will not cause an issue when looking for -v2 Current Objective
 https://www.youtube.com/watch?v=iHbjhiWic0U
+
+
+-v4 Quick Demo Preview: Added in a quick demo preview called "Cave_Rat_RPG_GPL", it is in folder DEMO
+			to run the demo will need to click on Cave_Rat_RPG_GPL/Cave_Rat_RPG/Cave_Rat_RPG.exe
+			
+			Also include a README.txt on Cave_Rat_RPG_GPL on the same steps as well.
+ 
