@@ -61,3 +61,9 @@ https://www.youtube.com/watch?v=iHbjhiWic0U
 			
 			Also include a README.txt on Cave_Rat_RPG_GPL on the same steps as well.
  
+--4.1 Added Main Menu Music: Figured to do a quick addon on Main Menu Music once the game loads.
+				Main Menu music location: ../resources/main_menu/music 
+				
+				As of now getting educated on Itchi.io and gamejolt publishing before 
+				updating the demo even further
+
