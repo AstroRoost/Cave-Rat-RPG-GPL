@@ -1,4 +1,4 @@
-![Cave_Rat_Intro_Vid_v0](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/5c273a6b-c9cc-4529-8b28-e188c519aa26)
+https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/1e0590e0-4273-4530-9374-52cd4b1bd7ee
 
 # Basic_SFML_RPG
 Basic SFML RPG w/ multiplayer - used as a quick reference pt for a server project main component- VillagerPvP.
