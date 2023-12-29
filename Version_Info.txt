@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=iHbjhiWic0U
 				As of now getting educated on Itchi.io and gamejolt publishing before 
 				updating the demo even further
 
---4.2 Itchio page account & more:
+-4.2 Itchio page account & more:
 
 Updated preview:
 # Basic_SFML_RPG - Cave Rat RPG
@@ -125,3 +125,14 @@ GPL 4 All (👍▀̿ ̿̀ ͜ʖ ́▀̿ ̿ )👍
 -Itchio : https://astroroost.itch.io/
 
 ~68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6338554b3355424c765638
+
+--v4.3 Gamejolt/Itchio: Gamejolt: https://gamejolt.com/games/Cave-rat-rpg/865202  & 
+			Itchio.io: https://astroroost.itch.io/cave-rat-rpg-gpl
+			
+			-Will further improve the page details as more updates are placed for the respo, will fix the enemy blood trail
+			and the rest of -v2 objectives as of now
+
+-Updated v2 Objctives
+			-Loot Drops , better basic gore, player screen damage effect,
+			menu, credit bar, multiplayer, chat log, commands, buff/debuff male||female , basic INV, 
+			bit more mob enemy types, Create Steam Demo Page to get educated on the process
