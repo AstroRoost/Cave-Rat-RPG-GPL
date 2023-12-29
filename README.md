@@ -1,7 +1,51 @@
-# Basic_SFML_RPG
+# Basic_SFML_RPG - Cave Rat RPG
 Basic SFML RPG w/ multiplayer - used as a quick reference pt for a server project main component- VillagerPvP.
 -v0 Update README.md : As of now will keep this respo blank until the main components are completed, so it can be "ready in the box" for those that wish to learn / implement your own creativity to your own projects
-        - This of course will be GPL, and for those that would like to know a bit of what GPL is all about:
+
+
+  ============================= 
+- Cave Rat inspiration? 
+  ============================= 
+     Tunnel Rats, made a documentation while back for college about Vietnam war, kept it back of my mind. Figured to make a Fantasy esc setting, with some features from VillagerPvP MC inspiration. Some tweaks from PACKT edu documentation, bing bang boom - Cave Rat RPG is born. kek
+
+- Expect this project to be more so educational/reference/hobby/etc.
+Quite enjoy debugging and adding in tweaks, addons, etc. Very fulfilling, and yup once the GPL demo is on Steam it will be M-rate due to "Gore" lel.
+
+  ============================= 
+
+Preview v0 - Straight into the action : Rand Stat Mage Class - Elf Species
+  =============================   
+https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/62a15f57-dd30-48cc-b143-ac0ed0e96a46
+
+
+  =============================   
+
+GIF - v0 - Straight into the action : Rand Stat Mage Class - Elf Species
+  =============================   
+
+![Wizard_shooting_enemies_v0](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/62130ae4-3771-490f-a494-0afbe9e43549)
+
+  =============================   
+
+GIF - v1 - Straight into the action : Rand Stat Mage Class - Elf Species
+  =============================   
+
+![Wizard_shooting_enemies_v1](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/f1a36313-0515-4622-aa57-36ee0072f6d6)
+
+
+  ============================= 
+
+Preview v1- Rand Stat Thief Class - Gnome Species
+  =============================   
+
+https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/bb1df760-e54e-4d68-99f1-f9f41e2ac6af
+
+  =============================   
+  
+GPL 4 All (👍▀̿ ̿̀ ͜ʖ ́▀̿ ̿ )👍
+  =============================   
+ - This of course will be GPL, and for those that would like to know a bit of what GPL is all about:
+   
   ============================= 
   =============================    
  - Freedom to Run the Program: Users can run the licensed software for any purpose without restrictions.
