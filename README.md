@@ -6,7 +6,7 @@ Basic SFML RPG w/ multiplayer - used as a quick reference pt for a server projec
   ============================= 
 - Cave Rat inspiration? 
   ============================= 
-     Tunnel Rats, made a documentation while back for college about Vietnam war, kept it back of my mind. Figured to make a Fantasy esc setting, with some features from VillagerPvP MC inspiration. Some tweaks from PACKT edu documentation, bing bang boom - Cave Rat RPG is born. kek
+     Tunnel Rats, made a documentation while back for ~~college~~ HS about Vietnam war, kept it back of my mind. Figured to make a Fantasy esc setting, with some features from VillagerPvP MC inspiration. Some tweaks from PACKT edu documentation, bing bang boom - Cave Rat RPG is born. kek
 
 - Expect this project to be more so educational/reference/hobby/etc.
 Quite enjoy debugging and adding in tweaks, addons, etc. Very fulfilling, and yup once the GPL demo is on Steam it will be M-rate due to "Gore" lel.
