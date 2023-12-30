@@ -137,3 +137,4 @@ GPL 4 All (👍▀̿ ̿̀ ͜ʖ ́▀̿ ̿ )👍
 			menu, credit bar, multiplayer, chat log, commands, buff/debuff male||female , basic INV, 
 			bit more mob enemy types, Create Steam Demo Page to get educated on the process
 ~68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d347541345147686e7a766f
+~68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d684a656e666d4235306867
