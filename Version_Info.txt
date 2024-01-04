@@ -253,3 +253,6 @@ bit more mob enemy types (i.g, mini boss, boss, range enemies, more meele enemie
 -pvp enable, or pve, level gen, etc
 
 -Going to use that as the foundation for creating your chara's for a main project ^_*
+68 74 74 70 73 3A 2F 2F 77 77 77 2E 79 6F 75 74 75 62 65 2E 63 6F 6D 2F 77 61 74 63 68 3F 76 3D 38 46 53 68 79 41 42 68 49 41 73
+
+68 74 74 70 73 3A 2F 2F 77 77 77 2E 79 6F 75 74 75 62 65 2E 63 6F 6D 2F 77 61 74 63 68 3F 76 3D 4D 42 6D 50 4F 59 32 50 41 32 51 
