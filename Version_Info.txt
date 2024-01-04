@@ -139,7 +139,7 @@ GPL 4 All (👍▀̿ ̿̀ ͜ʖ ́▀̿ ̿ )👍
 ~68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d347541345147686e7a766f
 ~68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d684a656e666d4235306867
 
---v4.4 Class,Stamina,Stats,Death: Updated a various of objs from --v2, will finalize the last 2 before
+-v4.4 Class,Stamina,Stats,Death: Updated a various of objs from --v2, will finalize the last 2 before
 				 releasing that current  DEMO and provide the updated note log of what has occured
 				- Moved the old demo to folder OLD_DEMO, will label the old DEMOS under their respective  date of 
 				upload
@@ -154,3 +154,8 @@ GPL 4 All (👍▀̿ ̿̀ ͜ʖ ́▀̿ ̿ )👍
 68 74 74 70 73 3A 2F 2F 77 77 77 2E 79 6F 75 74 75 62 65 2E 63 6F 6D 2F 77 61 74 63 68 3F 76 3D 51 34 49 34 72 75 76 74 72 57 34
 ===
 68 74 74 70 73 3A 2F 2F 77 77 77 2E 79 6F 75 74 75 62 65 2E 63 6F 6D 2F 77 61 74 63 68 3F 76 3D 47 73 34 74 70 68 75 56 69 72 6F
+
+--4.5 Added Quick Clip: added quick clip titled  "Quick_preview_stamina_skele_blood_potion_drops_etc.mp4"
+			Mini boss and bosses will be added once a couple of enemies are implemented with a s
+			special usage of slime balls for you to use on large groups of enemies
+68 74 74 70 73 3A 2F 2F 77 77 77 2E 79 6F 75 74 75 62 65 2E 63 6F 6D 2F 77 61 74 63 68 3F 76 3D 4F 36 4D 4F 65 6C 66 4F 69 2D 67
