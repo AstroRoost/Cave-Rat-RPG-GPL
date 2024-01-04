@@ -1,4 +1,3 @@
-==========
 #Tribal Class & Other Additions
 =========
 --Part of Version_Info status: --v5 Tribal Class & Other Additions
