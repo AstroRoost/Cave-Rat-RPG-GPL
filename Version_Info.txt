@@ -126,7 +126,7 @@ GPL 4 All (👍▀̿ ̿̀ ͜ʖ ́▀̿ ̿ )👍
 
 ~68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6338554b3355424c765638
 
---v4.3 Gamejolt/Itchio: Gamejolt: https://gamejolt.com/games/Cave-rat-rpg/865202  & 
+-v4.3 Gamejolt/Itchio: Gamejolt: https://gamejolt.com/games/Cave-rat-rpg/865202  & 
 			Itchio.io: https://astroroost.itch.io/cave-rat-rpg-gpl
 			
 			-Will further improve the page details as more updates are placed for the respo, will fix the enemy blood trail
@@ -138,3 +138,17 @@ GPL 4 All (👍▀̿ ̿̀ ͜ʖ ́▀̿ ̿ )👍
 			bit more mob enemy types, Create Steam Demo Page to get educated on the process
 ~68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d347541345147686e7a766f
 ~68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d684a656e666d4235306867
+
+--v4.4 Class,Stamina,Stats,Death: Updated a various of objs from --v2, will finalize the last 2 before
+				 releasing that current  DEMO and provide the updated note log of what has occured
+				- Moved the old demo to folder OLD_DEMO, will label the old DEMOS under their respective  date of 
+				upload
+				
+				-Current DEMO will be ../DEMO/Cave Rat RPG/Release/Cave_Rat_RPG.exe
+				On ../DEMO/Cave Rat RPG/  attached a snippet of the Tribal class with skele death sprites
+
+104 116 116 112 115 58 47 47 119 119 119 46 121 111 117 116 117 98 101 46 99 111 109 47 119 97 116 99 104 63 
+118 61 86 68 121 95 118 110 117 104 115 108 99
+
+
+
