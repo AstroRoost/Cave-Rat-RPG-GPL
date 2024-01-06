@@ -260,3 +260,5 @@ bit more mob enemy types (i.g, mini boss, boss, range enemies, more meele enemie
 68 74 74 70 73 3A 2F 2F 77 77 77 2E 79 6F 75 74 75 62 65 2E 63 6F 6D 2F 77 61 74 63 68 3F 76 3D 53 51 52 71 7A 31 44 33 58 6D 38
 
 --v5.1 mini boss zero: aye lmao, the perfect 1st rand stat boss : https://www.youtube.com/watch?v=dk23iXpGSJI , rip 2 new players kek
+
+68 74 74 70 73 3A 2F 2F 77 77 77 2E 79 6F 75 74 75 62 65 2E 63 6F 6D 2F 77 61 74 63 68 3F 76 3D 63 38 55 4B 33 55 42 4C 76 56 38
