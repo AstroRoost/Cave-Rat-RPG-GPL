@@ -20,25 +20,23 @@ https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/62a15f57-dd30-48cc-
 
   =============================   
 
-GIF - v0 - Straight into the action : Rand Stat Mage Class - Elf Species
+GIF - v0 - Straight into the action : Rand Stat Mage Class - Gnome Species
+  =============================   
+![Wizard](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/d5d19cca-fd20-49fc-9726-28eda9f52b08)
+
   =============================   
 
-![Wizard_shooting_enemies_v0](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/62130ae4-3771-490f-a494-0afbe9e43549)
-
+GIF - v1 - Straight into the action : Rand Stat Tribal Class - Dwarf Species
   =============================   
 
-GIF - v1 - Straight into the action : Rand Stat Mage Class - Elf Species
-  =============================   
-
-![Wizard_shooting_enemies_v1](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/f1a36313-0515-4622-aa57-36ee0072f6d6)
-
+![Tribal](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/6338eb9e-200e-4bd5-8dc7-131e939f485d)
 
   ============================= 
 
-Preview v1- Rand Stat Thief Class - Gnome Species
+Preview v1- Rand Stat Thief Class - Goblin Species
   =============================   
 
-https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/bb1df760-e54e-4d68-99f1-f9f41e2ac6af
+![Theif](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/1b1aafa6-78e4-403d-ba81-c831f623f206)
 
   =============================   
   
