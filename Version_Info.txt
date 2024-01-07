@@ -264,7 +264,7 @@ bit more mob enemy types (i.g, mini boss, boss, range enemies, more meele enemie
 68 74 74 70 73 3A 2F 2F 77 77 77 2E 79 6F 75 74 75 62 65 2E 63 6F 6D 2F 77 61 74 63 68 3F 76 3D 63 38 55 4B 33 55 42 4C 76 56 38
 
 
---v5.5 Sound Control / Pot drops from Skele's, LFS Upload:
+-v5.5 Sound Control / Pot drops from Skele's, LFS Upload:
 
 =========
 # Sound Control / Mana & Pot drops from Skele's (Skeleton) - Magical Affinity / usage required to operate their *functions*
@@ -352,3 +352,5 @@ Basic Inv Overview
 
 -Going to use that as the foundation for creating your chara's for a main project ^_*
 ==================
+--v5.6 .ZIP LFS Fix:
+	-Re-uploading LFS Zips fix for video & demos
