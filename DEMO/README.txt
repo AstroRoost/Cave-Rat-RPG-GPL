@@ -1,55 +1,48 @@
 =========
-#Tribal Class & Other Additions
+# Sound Control / Mana & Pot drops from Skele's (Skeleton) - Magical Affinity / usage required to operate their *functions*
 =========
---Part of Version_Info status: --v5 Tribal Class & Other Additions
---Quick_preview_Cave_Rat_RPG_GPL: https://youtu.be/IZ7tkWwrIeM
+
 ==========
--v2 objectives previous objectives:
- -Loot Drops , better basic gore,   player screen damage effect,
-			menu, credit bar, multiplayer, chat log, commands, buff/debuff male||female , basic INV, 
-			bit more mob enemy types, Create Steam Demo Page to get educated on the process
+--Current Completion
+-include +/- music volume [X]
 
---Current completion
-  * buff/debuff male||female - natural gender boost
-		-Females: Faster/higher mana re-gen , more nimble = speed
-		-Male: Higher defense, attack, stamina re-gen 
-	-Gen Boost video: https://youtu.be/Gvz7qUn0Vtc
- * new class & species improvment: Gnomes added, with new class : Tribal
-	- Added "tribal" music theme during the dungeon runs with a *twist
-	-Enemies will bleed more / leave trail at a better rate  (will work on making it perm instead of clearing once the enemy dies,
-	since its more of a visual feature, will leave that alone for now, functionality is main focus atm)
--Tribal Introduction: https://youtu.be/FWXlmLU4A_Q
+-Perm blood trail when enemy dies/clear other room [X]
 
-	- Added music change Numpad9, music mute Numpad8
+- Skeletons upon death will drop mana potion[X]Drop more pots due to being more magical orientated entities[X]
 
-	-Will include +/- music volume in later updates
+-Able to restart game via R [X]
 
-	-Slimes will not leave any "corpses" at the moment
-		-Updating them so they will drop slime balls, in which you can use to slow down large groups of enemies
-		-The corpse will be added later
+- player screen damage effect/heartbeat sound[X]
 
+-Added 4-6 additional music songs to the demo for a bit more variety [X]
+
+-Added Controls.txt to provide brief keyboard control tut, will improve further once the menu has been completed that will lead to an
+"Instructions/Keyboard bind update" [X]
 ==========
 Current Objectives
 ==========
 
-- Skeletons upon death will drop mana potion, and leave a "mana blood trail". They will still bleed red, since they were once "alive"
-	The mana just helps "revitalize" the body a bit, technically the other mobs and the player has mana, however to make the skeleton
-function, they just need an extra juice at least x3-5 times than the safe amount.
-
--include +/- music volume
-
-
 - Slime drop balls and better slime corspse death state
 -Slime ball functionality : slow down enemies
+=========
 
 -Add mini boss & boss
+-First mini boss v0 : https://www.youtube.com/watch?v=dk23iXpGSJI
+=========
+-Add more range enemies
 
-- player screen damage effect
+-Add more meele enemies
+=========
 - improve menu, credit bar
+- Add Controller support
+=========
 - Add multiplayer, chat log, commands
 =========
--Loot drops/destructible blocks (can use to craft later)
-- basic INV [depending on the item size, it will take up horizontal/vertical space]
+-Loot drops/destructible blocks (can use to craft later) - Slime balls will be used as the foundation for loot being "saved"
+
+=========
+
+- basic INV [depending on the item size, it will take up horizontal/vertical space] -IMGUI
 
 ==================
 Basic Inv Overview
@@ -77,14 +70,10 @@ Basic Inv Overview
 
 -etc to use either as crafting materials or as is
 ================
-bit more mob enemy types (i.g, mini boss, boss, range enemies, more meele enemies)
-
-
 -Create Steam Demo Page to get educated on the process
-
 =======
+-Diverse levels, to suit the mini boss / boss, will consider it later
 
--Perhaps more diverse levels, to suit the mini boss / boss, will consider it later
 -Enable player customized chara's before fully starting the game with an option to enable, commands/cheats, enable certain enemy types
 -pvp enable, or pve, level gen, etc
 
