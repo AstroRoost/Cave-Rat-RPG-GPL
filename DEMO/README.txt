@@ -18,6 +18,8 @@
 
 -Added Controls.txt to provide brief keyboard control tut, will improve further once the menu has been completed that will lead to an
 "Instructions/Keyboard bind update" [X]
+
+-LFS Upload for larger file commits[X]
 ==========
 Current Objectives
 ==========
