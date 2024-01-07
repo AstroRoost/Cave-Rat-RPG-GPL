@@ -363,9 +363,13 @@ Basic Inv Overview
 
 -Will continue with -v5.5 Sound Control / Pot drops from Skele's, LFS Upload Objectives
 
---v5.8 .ZIP Git LFS Resolved  Git LFS |x_x| :
+-v5.8 .ZIP Git LFS Resolved  Git LFS |x_x| :
 	-Yea found the issue, just exceeded the default data plan 150%, hence why the LFS was disabled. Will not worry about 
 	LFS for the time-being for this mini project. If this mini project requires it, 
 	I'll get the plan to make the gears work again . (👍 ͡~ ͜ʖ ͡°)👍
 -Removing Temp_LFS_Version.txt for now
 https://www.youtube.com/watch?v=4uA4QGhnzvo
+
+--v5.85 Updated Folder Name: Updated local folder: Github\Cave_Rat_RPG_GPL\Basic_SFML_RPG instead of \Github\Basic_SFML_RPG
+				no changes has been made to online respo.
+
