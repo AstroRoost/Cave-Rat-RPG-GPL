@@ -352,5 +352,13 @@ Basic Inv Overview
 
 -Going to use that as the foundation for creating your chara's for a main project ^_*
 ==================
---v5.6 .ZIP LFS Fix:
+-v5.6 .ZIP LFS Fix:
 	-Re-uploading LFS Zips fix for video & demos
+====
+--v5.7 .ZIP  <-x_x->:
+		Will resolve this at a later time, noting LFS commit before Steam Demo Upload
+	*.ZIP filter=lfs diff=lfs merge=lfs -text
+-Re-uploading default files [Videos & OLD_DEMO] before they were .zip
+-Deleted *.gitattributes for now
+
+-Will continue with -v5.5 Sound Control / Pot drops from Skele's, LFS Upload Objectives
