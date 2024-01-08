@@ -376,7 +376,7 @@ https://www.youtube.com/watch?v=4uA4QGhnzvo
 (👍≖‿‿≖)👍 👍(≖‿‿≖👍)
 https://www.youtube.com/watch?v=9EPHAf25d50&list=PLv5VFBJsR7uD3KATYCIFe1MXOsuAm9egQ
 ====================
---v5.9 Slime Innard Item Added:
+-v5.9 Slime Innard Item Added:
 -Added slime innard to be used as an item to slow down enemies [X]
 
 -Added slime innard sound to notify player of the pickup [X]
@@ -395,3 +395,16 @@ Current Objectives
 ==========
 ヾ(⌐■_■)ノ♪
 https://www.youtube.com/watch?v=2aPhXiAOC_E
+
+--v5.95 Slime Info: Slime will turn "grey" upon death, due to the microorganisms no longer producing their output color. Color comes from the stuff they absorbed. With the lack of the slime innard, keeping
+			the "structure" becomes impossible and falls apart, majority of the microorganisms will die, some will live and become small slimes.
+
+			On the main project, will go a bit more in-depth , inspiration comes for irl - pond esc life :P kek
+
+==========
+Current Objectives
+==========
+
+- Slime drop balls and better slime corspse death state 
+
+-Slime ball functionality : slow down enemies 
