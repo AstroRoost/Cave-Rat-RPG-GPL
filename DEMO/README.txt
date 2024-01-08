@@ -8,6 +8,12 @@
 with a temp-short hand name Slime Inard -> Slime Innard  [X]
 -The name tag is disabled for now 
 
+v5.95 Slime Info: Slime will turn "grey" upon death, due to the microorganisms no longer producing their output color. Color comes from the stuff they absorbed. With the lack of the slime innard, keeping
+			the "structure" becomes impossible and falls apart, majority of the microorganisms will die, some will live and become small slimes.
+
+			On the main project, will go a bit more in-depth , inspiration comes for irl - pond esc life :P kek
+
+
 ==========
 Current Objectives
 ==========
