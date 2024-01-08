@@ -1,7 +1,3 @@
-=========
-# Sound Control / Mana & Pot drops from Skele's (Skeleton) - Magical Affinity / usage required to operate their *functions*
-=========
-
 ==========
 --Current Completion
 -Added slime innard to be used as an item to slow down enemies [X]
