@@ -1,0 +1,38 @@
+Cave Rat RPG-GPL
+=================
+( ͡▀̿ ̿ 👅 ͡▀̿ ̿ ) 👉 KEYBOARD CONTROLS ☜ ( ͡▀̿ ̿ 👅 ͡▀̿ ̿ )
+=================
+
+W: Forward
+S: Down
+A: Left
+S: Right
+
+Left Click: Normal Attack
+Right Click: Faster Attack (Consumes more Mana - Blue Bar)
+
+Shift: Sprint (Yellow Bar = consumes Stamina)
+
+
+R: Restart Application
+Numpad 9: Change music playlist ヾ(⌐■_■)ノ♪
+Numpad 8: Mute music
+Numpad 8: Unmute music ((ノಠ益ಠ)ノhit it again! reeeee)
+
++ : Increase music volume
+- : Decrease music volume
+
+=================
+
+Red bar = HP
+◉_◉ When health is below 26 HP, you will get a "beeper/warning sound", until you can get health recovered
+
+=================
+
+Will add controller support on menu/credit bar has been completed
+Keyboard update support will be added during the menu/credit bar update
+-Reference : Version_Info.txt : --v5.5
+Version Info.txt link: https://github.com/AstroRoost/Basic_SFML_RPG/blob/main/Version_Info.txt
+=================
+Gamejolt : https://gamejolt.com/games/Cave-rat-rpg/865202
+Itchio : https://astroroost.itch.io/cave-rat-rpg-gpl

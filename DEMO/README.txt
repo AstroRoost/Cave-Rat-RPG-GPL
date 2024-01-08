@@ -4,28 +4,23 @@
 
 ==========
 --Current Completion
--include +/- music volume [X]
+-Added slime innard to be used as an item to slow down enemies [X]
 
--Perm blood trail when enemy dies/clear other room [X]
+-Added slime innard sound to notify player of the pickup [X]
 
-- Skeletons upon death will drop mana potion[X]Drop more pots due to being more magical orientated entities[X]
+-Added img : Slime_Innard_Item_in_Progress_Slow_Enemies.png providing an example of the item name, 
+with a temp-short hand name Slime Inard -> Slime Innard  [X]
+-The name tag is disabled for now 
 
--Able to restart game via R [X]
-
-- player screen damage effect/heartbeat sound[X]
-
--Added 4-6 additional music songs to the demo for a bit more variety [X]
-
--Added Controls.txt to provide brief keyboard control tut, will improve further once the menu has been completed that will lead to an
-"Instructions/Keyboard bind update" [X]
-
--LFS Upload for larger file commits[X]
 ==========
 Current Objectives
 ==========
 
-- Slime drop balls and better slime corspse death state
--Slime ball functionality : slow down enemies
+- Slime drop balls and better slime corspse death state 
+
+-Slime ball functionality : slow down enemies 
+
+
 =========
 
 -Add mini boss & boss
