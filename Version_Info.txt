@@ -376,7 +376,7 @@ https://www.youtube.com/watch?v=4uA4QGhnzvo
 (👍≖‿‿≖)👍 👍(≖‿‿≖👍)
 https://www.youtube.com/watch?v=9EPHAf25d50&list=PLv5VFBJsR7uD3KATYCIFe1MXOsuAm9egQ
 ====================
--v5.9 Slime Innard Item Added:
+--v5.9 Slime Innard Item Added:
 -Added slime innard to be used as an item to slow down enemies [X]
 
 -Added slime innard sound to notify player of the pickup [X]
