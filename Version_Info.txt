@@ -411,7 +411,7 @@ Current Objectives
 =============
 Pyromancer x Zombie Addition
 =============
---v6 Pyromancer x Zombie Addition [X]:
+-v6 Pyromancer x Zombie Addition [X]:
 			-Added zombie enemy, and  a new class called Pyromancer
 			Pyromancer is tad bit stronger than the mage, with 
 		
@@ -520,4 +520,13 @@ https://www.tiktok.com/@cyborgvillager/video/6983325482330656006
 68 74 74 70 73 3a 2f 2f 77 77 77 2e 79 6f 75 74 75 62 65 2e 63 6f 6d 2f 77 61 74 63 68 3f 76 3d 2d 67 78 32 54 41 59 6b 49 49 51
 
 68 74 74 70 73 3a 2f 2f 77 77 77 2e 79 6f 75 74 75 62 65 2e 63 6f 6d 2f 77 61 74 63 68 3f 76 3d 37 63 72 64 53 6c 51 6a 50 50 49
+==============
+
+--V6.5 General Public Use- Demo published to Itchio & Gamejolt:
+
+Itch.io:  https://astroroost.itch.io/cave-rat-rpg-gpl
+
+Gamejolt: https://gamejolt.com/games/Cave-rat-rpg/865202
+
+- Will update respo once -V6: Current Objectives are completed - IMGUI main focus at the moment
                                                      
