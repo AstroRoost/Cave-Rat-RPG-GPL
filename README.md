@@ -13,9 +13,9 @@ Quite enjoy debugging and adding in tweaks, addons, etc. Very fulfilling, and yu
 
   ============================= 
 
-Preview v0 - Straight into the action : Rand Stat Mage Class - Elf Species
+Preview v0 - Straight into the action : Rand Stat Pyromancer Class - Gnome Species
   =============================   
-https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/62a15f57-dd30-48cc-b143-ac0ed0e96a46
+https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/b2cf12b9-94a4-4a88-8044-cd686022668b
 
 
   =============================   
