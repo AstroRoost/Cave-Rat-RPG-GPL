@@ -533,3 +533,7 @@ Gamejolt: https://gamejolt.com/games/Cave-rat-rpg/865202
 - Yea I know I said will update this when -V6 is completed, however cannot let this go past my mind lol, the Boss v0 has been found https://soundcloud.com/sonic4925/mogolovonio?si=2db89baf73694657b8f52a619474c01b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing , and theres nothing can change that lmao
 
 - IMGUI setup is going great, getting exp on the process as FYI, just fig to add that in lol
+==========
+- Created SECURITY.md - Contact, Recognition, Privacy, Safety, etc
+	-Figured to add this ahead of time before adding in the src code later. Will update the other tab features for this respo and for others (Wiki, Issues, Security, etc).
+	- One step at a time (👉 ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) 👉
