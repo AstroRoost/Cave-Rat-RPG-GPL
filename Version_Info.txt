@@ -522,7 +522,7 @@ https://www.tiktok.com/@cyborgvillager/video/6983325482330656006
 68 74 74 70 73 3a 2f 2f 77 77 77 2e 79 6f 75 74 75 62 65 2e 63 6f 6d 2f 77 61 74 63 68 3f 76 3d 37 63 72 64 53 6c 51 6a 50 50 49
 ==============
 
---V6.5 General Public Use- Demo published to Itchio & Gamejolt:
+-V6.5 General Public Use- Demo published to Itchio & Gamejolt:
 
 Itch.io:  https://astroroost.itch.io/cave-rat-rpg-gpl
 
@@ -537,3 +537,7 @@ Gamejolt: https://gamejolt.com/games/Cave-rat-rpg/865202
 - Created SECURITY.md - Contact, Recognition, Privacy, Safety, etc
 	-Figured to add this ahead of time before adding in the src code later. Will update the other tab features for this respo and for others (Wiki, Issues, Security, etc).
 	- One step at a time (👉 ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ ) 👉
+==========
+--V6.6 Contrib_Asteroids_Araime: Forked/Star [Araime](https://github.com/Araime/Asteroids) , will contrib to the project a bit, add documentation, couple of improvement of life features/controls, 
+                               & most importantly IMGUI experiments. Most likely an IMGUI cheat, infinite HP, and other game addition goodies. Once that is completed will be adding the IMGUI features onto this project, to
+				complete the INV/crafting objective at hand.
