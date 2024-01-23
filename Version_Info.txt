@@ -542,3 +542,6 @@ Gamejolt: https://gamejolt.com/games/Cave-rat-rpg/865202
                                & most importantly IMGUI experiments. Most likely an IMGUI cheat, infinite HP, and other game addition goodies. Once that is completed will be adding the IMGUI features onto this project, to
 				complete the INV/crafting objective at hand.
 --V6.7 Added forked project:	Forked project: https://github.com/AstroRoost/Contrib_Asteroids_Araime
+
+==
+-Opengl/physic Proj 2 || 3 idea: https://www.youtube.com/watch?v=m1ttXJPPUIQ
