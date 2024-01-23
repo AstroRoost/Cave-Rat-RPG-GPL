@@ -1,3 +1,5 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 
 ![Github_Cave_Rat_RPG_GPL_README](https://github.com/AstroRoost/Basic_SFML_RPG/assets/19285919/fee8e052-c736-4037-a6da-7667927cc40e)
 
